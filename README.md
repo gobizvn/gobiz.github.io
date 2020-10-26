@@ -73,7 +73,5 @@ Ngoài ra team sẽ nhận được điểm thưởng nếu có:
 - Nếu team đạt thấp hơn 30p sẽ kỷ luật không hoàn thành nhiệm vụ được giao.
 - Team có thành tích tốt nhất/tháng và > 75p sẽ nhận được:
     * tiền mặt: 2M (tiền thưởng đến từ quỹ riêng của hoạt động này, cá nhân tôi donate toàn bộ phần thiếu)
-    * kể cả không đạt 75p: vinh danh nội bộ Gobiz, đồng thời team đề cử 1 cá nhân có nhiều đóng góp nhất
-    * cá nhân có nhiều đóng góp nhất: thưởng riêng 100k và vinh danh nội bộ Gobiz. Nếu công ty Vela có áp dụng hình thức vinh danh cá nhân thuộc bộ phận tháng đó sẽ đề cử cá nhân này. 
-
-> Lưu ý: Điểm thành tích ở đây không mang tính quyết định đối với các kỳ review, nhưng những thành tích nổi bật của team và cá nhân sẽ có ảnh hưởng tích cực.
+    * kể cả không đạt 75p: tuyên dương nội bộ Gobiz, đồng thời team đề cử 1 cá nhân có nhiều đóng góp nhất
+    * cá nhân có nhiều đóng góp nhất: thưởng riêng 100k và tuyên dương nội bộ Gobiz. Nếu công ty Vela có áp dụng hình thức tuyên dương cá nhân thuộc bộ phận tháng đó sẽ đề cử cá nhân này. 
