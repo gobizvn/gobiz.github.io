@@ -85,4 +85,4 @@ Ngoài ra team sẽ nhận được điểm thưởng nếu có:
 - Team có thành tích tốt nhất/tháng và > 75p sẽ nhận được:
     * tiền mặt: 2M
     * kể cả không đạt 75p: tuyên dương nội bộ Gobiz, đồng thời team đề cử 1 cá nhân có nhiều đóng góp nhất
-    * cá nhân có nhiều đóng góp nhất: thưởng riêng 100k và tuyên dương nội bộ Gobiz. Nếu công ty Vela có áp dụng hình thức tuyên dương cá nhân thuộc bộ phận tháng đó sẽ đề cử cá nhân này. 
+    * cá nhân có nhiều đóng góp nhất: phần quà trị giá 100k và tuyên dương nội bộ Gobiz. Nếu công ty Vela có áp dụng hình thức tuyên dương cá nhân thuộc bộ phận tháng đó sẽ đề cử cá nhân này. 
