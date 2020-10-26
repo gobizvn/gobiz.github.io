@@ -11,7 +11,18 @@ Sẽ bao gồm tất cả dev, tester, techlead, BA, SM tham gia vào công vi�
 
 ### Thời gian áp dụng
 
-Chương trình được áp dụng cho các team phát triển sản phẩm của Gobiz từ tháng 11/2020. Rule hiện tại đã được cập nhật so với bản tháng 10/2020 áp dụng trước cho 3 team để khắc phục một số yếu điểm trước đó.
+Chương trình được áp dụng cho các team phát triển sản phẩm của Gobiz từ tháng 11/2020. Rule hiện tại đã được cập nhật so với bản tháng 10/2020 đã được áp dụng thử nghiệm cho một số team để khắc phục một số yếu điểm.
+
+Danh sách các team áp dụng từ tháng 11:
+- Avengers
+- Hảo Vọng
+- YaoGuai (lấy tên theo project vì chưa thấy đăng ký tên riêng)
+- Vinasat 5 (lấy tên theo tên cũ + project vì chưa thấy đăng ký tên riêng)
+- Vinasat 6 (lấy tên theo tên cũ + project vì chưa thấy đăng ký tên riêng)
+
+### Quỹ hoạt động
+
+Phục vụ cho chương trình này sẽ thành lập quỹ hoạt động riêng. Mọi hoạt động tính đến tháng 11/2020 sẽ do cá nhân ông Nguyễn Xuân Kiên tài trợ.
 
 ## Cách thức thực hiện
 
@@ -72,6 +83,6 @@ Ngoài ra team sẽ nhận được điểm thưởng nếu có:
 - Nếu team đạt dưới 60p, yêu cầu team donate quỹ 500K (việc mỗi cá nhân donate bao nhiêu team tự quyết định)
 - Nếu team đạt thấp hơn 30p sẽ kỷ luật không hoàn thành nhiệm vụ được giao.
 - Team có thành tích tốt nhất/tháng và > 75p sẽ nhận được:
-    * tiền mặt: 2M (tiền thưởng đến từ quỹ riêng của hoạt động này, cá nhân tôi donate toàn bộ phần thiếu)
+    * tiền mặt: 2M
     * kể cả không đạt 75p: tuyên dương nội bộ Gobiz, đồng thời team đề cử 1 cá nhân có nhiều đóng góp nhất
     * cá nhân có nhiều đóng góp nhất: thưởng riêng 100k và tuyên dương nội bộ Gobiz. Nếu công ty Vela có áp dụng hình thức tuyên dương cá nhân thuộc bộ phận tháng đó sẽ đề cử cá nhân này. 
