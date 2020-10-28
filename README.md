@@ -22,7 +22,7 @@ Danh sách các team áp dụng từ tháng 11:
 
 ### Quỹ hoạt động
 
-Phục vụ cho chương trình này sẽ thành lập quỹ hoạt động riêng. Mọi hoạt động tính đến tháng 11/2020 sẽ do cá nhân ông Nguyễn Xuân Kiên tài trợ.
+Phục vụ cho chương trình này sẽ thành lập quỹ hoạt động riêng. Mọi hoạt động tính đến tháng 11/2020 sẽ do Gobiz tài trợ 1 phần, còn lại ông Nguyễn Xuân Kiên sẽ bù vào.
 
 ## Cách thức thực hiện
 
@@ -80,9 +80,15 @@ Ngoài ra team sẽ nhận được điểm thưởng nếu có:
 2. Tham gia các hoạt động khác như tổ chức đào tạo, sự kiện chia sẻ,... điểm cộng tùy trường hợp
 
 ### Khen thưởng & kỷ luật
-- Nếu team đạt dưới 60p, yêu cầu team donate quỹ 500K (việc mỗi cá nhân donate bao nhiêu team tự quyết định)
 - Nếu team đạt thấp hơn 30p sẽ kỷ luật không hoàn thành nhiệm vụ được giao.
-- Team có thành tích tốt nhất/tháng và > 75p sẽ nhận được:
-    * tiền mặt: 2M
-    * kể cả không đạt 75p: tuyên dương nội bộ Gobiz, đồng thời team đề cử 1 cá nhân có nhiều đóng góp nhất
-    * cá nhân có nhiều đóng góp nhất: phần quà trị giá 100k và tuyên dương nội bộ Gobiz. Nếu công ty Vela có áp dụng hình thức tuyên dương cá nhân thuộc bộ phận tháng đó sẽ đề cử cá nhân này. 
+- Nếu team đạt dưới 60p, yêu cầu team donate quỹ 500K (việc mỗi cá nhân donate bao nhiêu team tự quyết định), đồng thời
+giảm 500K từ khoản thưởng của team có thành tích tốt nhất. 
+- Team có thành tích tốt nhất/tháng nhận được:
+    * tiền mặt: tổng 3M (nếu không có team nào dưới 60p)
+    * tuyên dương nội bộ Gobiz, đồng thời team đề cử 1 cá nhân có nhiều đóng góp nhất
+    * cá nhân có nhiều đóng góp nhất: phần quà trị giá 100k và tuyên dương nội bộ Gobiz. Nếu công ty Vela có áp dụng hình thức tuyên dương cá nhân thuộc bộ phận tháng đó sẽ đề cử cá nhân này.
+- Team có thành tích thứ nhì và không dưới 60p sẽ nhận được 1M.
+- Trong trường hợp chương trình tháng 11 chưa được phê duyệt ngân sách công ty (vẫn hoạt động 100% ngân sách cá nhân) thì số tiền thưởng team sẽ giảm 50%
+    
+> Ví dụ: có 5 team, 2 team dưới 60p và 3 team trên 60p. Team có thành tích tốt nhất sẽ được thưởng 2M (vì đã bị giảm trừ do có 2 team dưới 60p).
+> 2 team dưới 60p mỗi team sẽ donate 500K.
