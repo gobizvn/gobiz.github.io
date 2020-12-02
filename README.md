@@ -46,7 +46,7 @@ Mọi người có quyền góp ý để khắc phục những sai sót của th
 Thang điểm được tính trên các tiêu chí sau:
 
 1. Khối lượng công việc
-    - Tỉ lệ hoàn thành mục tiêu (%) * 70p (chỉ bao gồm những phần đã được deploy thành công trong tháng)
+    - Tỉ lệ hoàn thành mục tiêu (%) * 60p (chỉ bao gồm những phần đã được deploy thành công trong tháng)
     - Tại buổi review cuối cùng, team review và phản biện, những chức năng có trải nghiệm dưới trung bình sẽ bị loại ra khỏi hạng mục hoàn thành
     - Các công việc phát sinh: 0-10p
         * nếu không có việc phát sinh buộc phải làm thì mặc định nhận đủ 10p
@@ -64,6 +64,10 @@ Thang điểm được tính trên các tiêu chí sau:
     * Dựa trên phản hồi tiêu cực từ phía khách hàng & đối tác nội bộ:
         - Không có phản hồi tiêu cực: 10p
         - Mỗi phản hồi tiêu cực -5p, trừ tối đa lên đến 30p
+    * Dựa trên tinh thần hợp tác, thái độ đối với công việc: 10p, được đánh giá cảm quan có thông qua phản biện bởi team SM, trong đó tương đối:
+        - Team có rất nhiều nỗ lực, nghiêm túc cố gắng hoàn thành tiến độ và chất lượng: 10p
+        - Team chỉ hoàn thành theo nhiệm vụ, thái độ làm việc không có gì khen chê: 3p
+        - Team có tinh thần yếu kém: 0p
     
 Các phần trên đánh giá tối đa được 110p/100p (đã bao gồm điểm cộng thêm tối đa 10p khi khối lượng phát sinh quá lớn)        
 
@@ -77,15 +81,13 @@ Ngoài ra team sẽ nhận được điểm thưởng nếu có:
 3. Tham gia các hoạt động khác như tổ chức đào tạo, sự kiện chia sẻ,... điểm cộng tùy trường hợp
 
 ### Khen thưởng & kỷ luật
-- Nếu team đạt thấp hơn 20p sẽ kỷ luật không hoàn thành nhiệm vụ được giao.
-- Nếu team đạt dưới 50p, giảm 500K từ khoản thưởng của team có thành tích tốt nhất.
-- Nếu team đạt dưới 40p, yêu cầu team donate quỹ 500K (việc mỗi cá nhân donate bao nhiêu team tự quyết định) 
+- Nếu team đạt dưới 60p, giảm 500K từ khoản thưởng của team có thành tích tốt nhất.
+- Nếu team đạt dưới 50p, yêu cầu team donate quỹ 500K (việc mỗi cá nhân donate bao nhiêu team tự quyết định) 
 - Team có thành tích tốt nhất/tháng nhận được:
     * tiền mặt: tổng 2.5M (nếu không có team nào dưới 60p)
     * tuyên dương nội bộ Gobiz, đồng thời team đề cử 1 cá nhân có nhiều đóng góp nhất
     * cá nhân có nhiều đóng góp nhất: phần quà trị giá 100k và tuyên dương nội bộ Gobiz. Nếu công ty Vela có áp dụng hình thức tuyên dương cá nhân thuộc bộ phận tháng đó sẽ đề cử cá nhân này.
-- Team có thành tích thứ nhì và không dưới 60p sẽ nhận được 1M.
-- Trong trường hợp chương trình tháng 11 chưa được phê duyệt ngân sách công ty (vẫn hoạt động 100% ngân sách cá nhân) thì số tiền thưởng team sẽ giảm 50%
+- Team có thành tích thứ nhì và không dưới 50p sẽ nhận được 1M.
     
 > Ví dụ: có 5 team, 2 team dưới 50p và 3 team trên 50p. Team có thành tích tốt nhất sẽ được thưởng 1.5M (vì đã bị giảm trừ do có 2 team dưới 50p).
 > 2 team dưới 50p mỗi team sẽ donate 500K.
