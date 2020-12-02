@@ -47,6 +47,8 @@ Thang điểm được tính trên các tiêu chí sau:
 
 1. Khối lượng công việc
     - Tỉ lệ hoàn thành mục tiêu (%) * 60p (chỉ bao gồm những phần đã được deploy thành công trong tháng)
+    - Đối với những mục tiêu tiếp nhận yêu cầu, chỉ tính các yêu cầu nhận từ trước cho đến ngày 24 hàng tháng (còn khoảng 1 tuần để giải quyết)
+    - Đối với những mục tiêu chưa triển khai được trên môi trường Production. Nếu team có thể demo được đầy đủ trên staging theo mục tiêu sẽ được tính 50%.
     - Tại buổi review cuối cùng, team review và phản biện, những chức năng có trải nghiệm dưới trung bình sẽ bị loại ra khỏi hạng mục hoàn thành
     - Các công việc phát sinh: 0-10p
         * nếu không có việc phát sinh buộc phải làm thì mặc định nhận đủ 10p
