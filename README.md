@@ -58,7 +58,7 @@ Ngoài ra team sẽ nhận được điểm thưởng nếu có:
 3. Có đóng góp đặc biệt cho tổ chức được ghi nhận mà không nằm trong bất kỳ các hạng mục nào ở trên
 
 ### Khen thưởng tập thể
-- Nếu team đạt dưới 65p, giảm 250K từ khoản thưởng của team có thành tích tốt nhất.
+- Nếu team đạt dưới 60p, giảm 250K từ khoản thưởng của team có thành tích tốt nhất.
 - Team có thành tích tốt nhất/tháng nhận được:
     * tiền mặt: tổng 2M (nếu không có team nào dưới 60p)
     * tuyên dương nội bộ Gobiz
