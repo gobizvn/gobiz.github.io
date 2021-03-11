@@ -7,7 +7,7 @@
     * [Kết quả tháng 12/2020](2020.12.md)
     * [Kết quả tháng 11/2020](2020.11.md)
     * [Kết quả tháng 10/2020](2020.10.md)
-*Bookmark
+* Bookmark
     * [Thống kê cá nhân](member.md)
     * [Thống kê theo team](team.md)
     * [Dashboard](dashboard.md)
