@@ -2,7 +2,7 @@
 
 * [Giới thiệu](README.md)
 * [Câu hỏi thường gặp](FAQ.md)
-* [Đánh giá cá nhân](invididual_review.md)
+* [Đánh giá cá nhân](individual_review.md)
 * Kết quả
     * [Kết quả tháng 01/2021](2021.01.md)
     * [Kết quả tháng 12/2020](2020.12.md)
