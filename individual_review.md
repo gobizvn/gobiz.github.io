@@ -24,6 +24,7 @@ Cá nhân cũng giống như team sẽ được đánh giá xếp loại thành 
 #### 3.1. Đối với cấp nhân viên
 
 | Xếp loại        | Yêu cầu  |
+| ------------- |-------------|
 | S      | Hoàn thành công việc theo trách nhiệm và có đóng góp nổi bật đối với tổ chức (bao gồm cả cấp team). |
 | A      | Hoàn thành công việc theo trách nhiệm. Có những nỗ lực nhất định vượt trên vị trí hoặc có đóng góp cải tiến đến công việc chung. |
 | B      | Vừa đủ hoàn thành công việc theo trách nhiệm với vị trí của mình trong tổ chức. Không có điểm đáng phê bình hoặc nhẹ. |
