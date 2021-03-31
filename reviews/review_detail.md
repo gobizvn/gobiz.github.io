@@ -1,0 +1,21 @@
+### Các yếu tố có thể ảnh hưởng đến đánh giá cá nhân như sau:
+
+- Hoàn thành cơ bản công việc team giao phó trong việc đạt kế hoạch tháng của team hoặc các nhiệm vụ được giao khác
+  - Yêu cầu tối thiểu: hoàn thành cơ bản = có thực hiện, chưa xét đến chất lượng hay tiến độ. Bao gồm cả các công việc/trách nhiệm được giao ngoài không nằm trong kế hoạch của team.
+- Hoàn thành tốt công việc của bản thân theo kế hoạch.
+  - Hoàn thành các phần việc trong kế hoạch chung đúng tiến độ & chất lượng ổn định.
+- Team đạt hạng B trở lên
+- Team đạt hạng A trở lên
+- Team đạt hạng S trở lên
+- Trách nhiệm chung vượt mức với kế hoạch chung/nhiệm vụ được giao
+  - Nỗ lực hoàn thành kế hoạch chung, không chỉ dừng lại ở những việc thuộc trách nhiệm của mình mà còn sẵn sàng nhắc nhở và hỗ trợ công việc khác để hoàn thành một cách năng động và tích cực.
+- Trách nhiệm cá nhân vượt mức và nỗ lực hoàn thành công việc
+  - Sẵn sàng làm thêm ngoài giờ để đuổi kịp tiến độ theo kế hoạch, không bao gồm việc chơi trong giờ sau đó làm ngoài giờ, thời gian làm ngoài giờ theo hình thức này từ 4 tiếng trở lên
+- Hướng dẫn và đào tạo thành viên khác trong team
+  - Diễn ra liên tục trong quá trình làm việc của tháng, không phải phát sinh 1-2 lần
+- Thể hiện vai trò Senior
+  - Tự giác thực hiện những công việc yêu cầu cao về chuyên môn nhưng không nằm trong kế hoạch nhưng có đem lại lợi ích cho công ty, ví dụ như nâng cấp framework, refactor code,... (thường xuyên, không phải 1 lần sự vụ)
+- Có đóng góp đặc biệt khác được ghi nhận bởi Gobiz
+  - Xây dựng sản phẩm mới không nằm trong kế hoạch, đóng góp sáng kiến có giá trị cho tổ chức,...
+- Vi phạm kỷ luật chung công ty
+- Vi phạm kỷ luật team
