@@ -31,7 +31,7 @@ Cá nhân cũng giống như team sẽ được đánh giá xếp loại thành 
 | C      | Không hoàn thành nhiệm vụ được giao hoặc có vi phạm cần phê bình hoặc vi phạm nhỏ nhưng lặp lại nhiều lần.      |
 | D      | Không hoàn thành nhiệm vụ được giao và vi phạm nguyên tắc làm việc, gây hậu quả nghiêm trọng. |
 
-Hiện tại chi tiết cách thức đánh giá theo vị trí đang được hoàn thiện dần nhưng có thể tham khảo [tại đây](https://race.gobizdev.com/individual_review/review_detail).
+Hiện tại chi tiết cách thức đánh giá theo vị trí đang được hoàn thiện dần nhưng có thể tham khảo [tại đây](/individual_review/review_detail).
 
 #### 3.2. Đối với cấp quản lý
 
