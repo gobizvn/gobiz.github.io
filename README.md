@@ -15,14 +15,8 @@ Chương trình được áp dụng cho các team phát triển sản phẩm c�
 
 ## Cách thức thực hiện
 
-### Mục tiêu & báo cáo hoàn thành
-- Tuần cuối của tháng sẽ đặt mục tiêu và các chỉ số hoàn thành của mục tiêu gửi cho team.
-    * Kế hoạch tháng sẽ được trao đổi với BA và sau đó sẽ được trao đổi với team, dự kiến trong buổi review cuối tháng.
-- Tuần áp cuối của tháng, team làm report công việc tháng trong đó:
-    1. Những mục tiêu/tiêu chí đã hoàn thành.
-    2. Những gì chưa làm được và đề xuất nếu có
-- Người làm report có thể là thành viên bất kỳ trong team. Miễn tôi nhận được báo cáo đúng hạn.
-    * Trong trường hợp nộp báo cáo muộn, mỗi ngày kể từ ngày làm việc cuối cùng của tuần yêu cầu nộp báo cáo trừ 5 điểm.
+### Mục tiêu & hoàn thành
+- Mục tiêu tháng và nội dung mục tiêu tháng sẽ được chia sẻ đến team và có phản biện trong buổi review cuối tháng và coi như là plan cho tháng tiếp. 
 
 ### Đánh giá
 Việc đánh giá sẽ không tránh khỏi có những nhận xét mang tính chủ quan từ phía người đánh giá. Quyết định của người đánh giá là quyết định cuối cùng.
@@ -41,8 +35,7 @@ Thang điểm được tính trên các tiêu chí sau:
 2. Chất lượng
     * Tình hình có bug trên Production: 10p, trừ dần:
         - Critical: -10p, High: -5p (không tính các bug do nguyên nhân phần cứng)
-        - Việc report bug Production từ level Medium trở lên là bắt buộc trong vòng 3 ngày kể từ ngày phát hiện ra lỗi.
-        - Với mỗi ngày báo cáo chậm trừ 1p, trừ không giới hạn.
+        - Việc report bug Production từ level Medium trở lên là bắt buộc. Nếu cố tình không báo sẽ phạt.
     * Dựa trên phản hồi tiêu cực từ phía khách hàng & đối tác nội bộ (10p):
         - Mỗi phản hồi tiêu cực trừ lên đến -5p, trừ tối đa lên đến -30p
     * Dựa trên tinh thần hợp tác, thái độ đối với công việc: 10p, được đánh giá cảm quan có thông qua phản biện bởi team SM, trong đó tương đối:

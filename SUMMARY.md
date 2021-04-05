@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Giới thiệu](README.md)
+* [Thành tích team theo tháng](README.md)
 * [Câu hỏi thường gặp](FAQ.md)
 * Kết quả
     * [Kết quả tháng 01/2021](2021.01.md)
@@ -14,3 +14,5 @@
     * [Form báo cáo cá nhân hàng tháng](https://docs.google.com/forms/d/e/1FAIpQLSd2NGkOJKm5qo1riZCuYMd4AIe9b0psegNjRUA2u_kuJjmacw/viewform?usp=sf_link)
 * [Đánh giá cá nhân](reviews/individual_review.md)
   * [Chi tiết đánh giá cá nhân](reviews/review_detail.md)
+* Nguyên tắc làm việc
+  * [Board quản lý request cho leader](works/leader_request.md)
