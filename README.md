@@ -51,15 +51,15 @@ Ngoài ra team sẽ nhận được điểm thưởng nếu có:
 3. Có đóng góp đặc biệt cho tổ chức được ghi nhận mà không nằm trong bất kỳ các hạng mục nào ở trên
 
 ### Đánh giá xếp loại team
-S	Đạt trên 100% mục tiêu (bao gồm cả trong và ngoài mục tiêu), hoặc tối thiểu 90% nhưng có thêm thành tích khác.
+S - Đạt trên 100% mục tiêu (bao gồm cả trong và ngoài mục tiêu), hoặc tối thiểu 90% nhưng có thêm thành tích khác.
 
-A	Đạt trên 80% mục tiêu (bao gồm cả trong và ngoài mục tiêu), hoặc tối thiểu 65% nhưng có thêm thành tích khác.
+A - Đạt trên 80% mục tiêu (bao gồm cả trong và ngoài mục tiêu), hoặc tối thiểu 65% nhưng có thêm thành tích khác.
 
-B	Đạt trên 50% mục tiêu (bao gồm cả trong và ngoài mục tiêu), hoặc 35% có thêm thành tích khác.
+B - Đạt trên 50% mục tiêu (bao gồm cả trong và ngoài mục tiêu), hoặc 35% có thêm thành tích khác.
 
-C	Đạt trên 35% mục tiêu (bao gồm cả trong và ngoài mục tiêu).
+C - Đạt trên 35% mục tiêu (bao gồm cả trong và ngoài mục tiêu).
 
-D	Không thỏa mãn bất kỳ tiêu chí trên.
+D - Không thỏa mãn bất kỳ tiêu chí trên.
 
 
 ### Khen thưởng tập thể
