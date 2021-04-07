@@ -50,6 +50,8 @@ Ngoài ra team sẽ nhận được điểm thưởng nếu có:
 2. Tham gia các hoạt động khác như tổ chức đào tạo, sự kiện chia sẻ,... điểm cộng tùy trường hợp
 3. Có đóng góp đặc biệt cho tổ chức được ghi nhận mà không nằm trong bất kỳ các hạng mục nào ở trên
 
+### Đánh giá team
+
 ### Khen thưởng tập thể
 - Nếu team đạt dưới 60p, giảm 250K từ khoản thưởng của team có thành tích tốt nhất.
 - Team có thành tích tốt nhất/tháng nhận được:
