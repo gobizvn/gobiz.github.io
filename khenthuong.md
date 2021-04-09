@@ -17,9 +17,9 @@ Gia tăng khen thưởng và ghi nhận các thành tích cá nhân có tầm �
 
 ## Quy trình
 Bất kỳ nhân viên nào cũng đều có thể làm đề xuất khen thưởng/kỷ luật cho cá nhân/team thuộc Gobiz theo quy trình sau: 
-1. Đề xuất qua google form: 
-https://docs.google.com/forms/d/e/1FAIpQLSeCrGN2EwWDZnau2Q8HR2xxzWZ_D8qkBKcKAyEHqoB5293Qsw/viewform.
 
+1. Đề xuất qua google form: 
+https://docs.google.com/forms/d/e/1FAIpQLSeCrGN2EwWDZnau2Q8HR2xxzWZ_D8qkBKcKAyEHqoB5293Qsw/viewform. 
 2. Đề xuất được đưa lên ticket để chờ duyệt.
 3. Trưởng nhóm (chờ duyệt)
 4. Trưởng bộ phận (chờ duyệt)
