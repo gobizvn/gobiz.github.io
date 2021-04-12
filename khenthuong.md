@@ -11,7 +11,7 @@ Gia tăng khen thưởng và ghi nhận các thành tích cá nhân có tầm �
 - CBNV được đối tác/khách hàng khen ngợi về thái độ, ý thức và chất lượng dịch vụ mà CBNV cung cấp 
 
 ### Khen thưởng ý tưởng, sáng kiến, thành tích
-- Các ý tưởng/đề xuất có thể áp dụng được vào thực tế, giúp  cải thiện được hiệu quả trong công việc hàng ngày hoặc trong công tác quản lý của cơ sở/bộ phận, mang lại lợi ích cụ thể (giảm sai sót, rút ngắn thời gian, cải tiến chất lượng...). 
+- Các ý tưởng/đề xuất có thể áp dụng được vào thực tế, giúp cải thiện được hiệu quả trong công việc hàng ngày hoặc trong công tác quản lý của cơ sở/bộ phận, mang lại lợi ích cụ thể (giảm sai sót, rút ngắn thời gian, cải tiến chất lượng...). 
 - Sáng kiến mới giúp tăng doanh thu hoặc giảm chi phí cho công ty 
 - Cá nhân/team có hiệu suất làm việc vượt trội 
 
