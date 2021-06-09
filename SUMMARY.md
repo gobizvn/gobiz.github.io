@@ -15,5 +15,6 @@
     * [Form báo cáo cá nhân hàng tháng](https://docs.google.com/forms/d/e/1FAIpQLSd2NGkOJKm5qo1riZCuYMd4AIe9b0psegNjRUA2u_kuJjmacw/viewform?usp=sf_link)
 * [Đánh giá cá nhân](reviews/individual_review.md)
   * [Chi tiết đánh giá cá nhân](reviews/review_detail.md)
+# [Tài liệu](documents.md)
 * Nguyên tắc làm việc
   * [Board quản lý request cho leader](works/leader_request.md)
