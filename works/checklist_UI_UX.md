@@ -1,6 +1,6 @@
 | Yêu cầu bắt buộc về UI/UX  |   |
-| Mã hóa ký tự khi nhập mã pin, mật khẩu  |  High | 
 |---|---|
+| Mã hóa ký tự khi nhập mã pin, mật khẩu  |  High | 
 |  Có màu sắc đề phân biệt rõ giữa thông báo lỗi với cảnh báo | High  |
 | Có place holder cho các trường không có label  |  High |
 | Có thể hiện tình trạng loading khi trang đang xử lý dữ liệu  | High  |
