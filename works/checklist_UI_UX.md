@@ -17,7 +17,9 @@
 | Đúng chính tả, cách trình bày dấu câu đối với ngôn ngữ tiếng Việt  | High  |
 | Chuyển về trang trước đó khi nhấn nút back của trình duyệt/hệ thống  | Normal  |
 | Có thông báo khi trang chưa có dữ liệu (danh sách chưa có bản ghi). Thông báo này phải phân biệt với chưa load dữ liệu (phần lớn các team đang mắc phải lỗi này)  |  Normal |
+
 | **NHÓM KHUYẾN CÁO, CHƯA BẮT BUỘC**||
+| :---             |    ----:   |
 | Báo lỗi validate dữ liệu ngay dưới trường thông tin bị lỗi  | High  |
 | Disable button Submit/Chặn enter  khi tất cả các trường trống hoặc trường bắt đang trống  |  High |
 | Sau khi login thành công luôn chuyển đến chức năng/màn hình không phân quyền  | High  |
