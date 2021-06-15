@@ -18,8 +18,8 @@
       * [Checklist yêu cầu về UI/UX](works/checklist_UI_UX.md)
       * [Quy trình phát triển](works/process.md)
   * Tester
-     * Quy định về kiểm thử
-     * Quy trình về kiểm thử trước khi release 
+     * [Quy định về kiểm thử](works/tester/testing.md)
+     * [Quy trình về kiểm thử trước khi release](works/tester/testing_for_release.md)
   * [Board quản lý request cho leader](works/leader_request.md)
 * [Tài liệu](documents.md)
 * Bookmark
