@@ -13,7 +13,13 @@
 * [Quy định khen thưởng](khenthuong.md)
 * [Đánh giá cá nhân](reviews/individual_review.md)
   * [Chi tiết đánh giá cá nhân](reviews/review_detail.md)
-* Nguyên tắc làm việc
+* Quy định làm việc
+  * Quy định chung
+      * [Checklist yêu cầu về UI/UX](works/checklist_UI_UX.md)
+      * 
+  * Tester
+     * Quy định về kiểm thử
+     * Quy trình về kiểm thử trước khi release 
   * [Board quản lý request cho leader](works/leader_request.md)
 * [Tài liệu](documents.md)
 * Bookmark
