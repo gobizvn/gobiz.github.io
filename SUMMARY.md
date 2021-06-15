@@ -16,7 +16,7 @@
 * Quy định làm việc
   * Quy định chung
       * [Checklist yêu cầu về UI/UX](works/checklist_UI_UX.md)
-      * 
+      * [Quy trình phát triển](works/process.md)
   * Tester
      * Quy định về kiểm thử
      * Quy trình về kiểm thử trước khi release 
