@@ -1,7 +1,7 @@
-| : Yêu cầu bắt buộc về UI/UX : ||
+| Yêu cầu bắt buộc về UI/UX  ||
 |---|---|
 | Mã hóa ký tự khi nhập mã pin, mật khẩu  |  High | 
-|  Có màu sắc đề phân biệt rõ giữa thông báo lỗi với cảnh báo | High  |
+| Có màu sắc đề phân biệt rõ giữa thông báo lỗi với cảnh báo | High  |
 | Có place holder cho các trường không có label  |  High |
 | Có thể hiện tình trạng loading khi trang đang xử lý dữ liệu  | High  |
 | Các trường disable không thể nhập, click  | High  |
@@ -17,11 +17,22 @@
 | Đúng chính tả, cách trình bày dấu câu đối với ngôn ngữ tiếng Việt  | High  |
 | Chuyển về trang trước đó khi nhấn nút back của trình duyệt/hệ thống  | Normal  |
 | Có thông báo khi trang chưa có dữ liệu (danh sách chưa có bản ghi). Thông báo này phải phân biệt với chưa load dữ liệu (phần lớn các team đang mắc phải lỗi này)  |  Normal |
-|   | High  |
-|   | High  |
-|   |  High |
-|   | High  |
-|   | High  |
+| **Nhóm khuyến cáo, chưa bắt buộc**  |  |
+| Báo lỗi validate dữ liệu ngay dưới trường thông tin bị lỗi  | High  |
+| Disable button Submit/Chặn enter  khi tất cả các trường trống hoặc trường bắt đang trống  |  High |
+| Sau khi login thành công luôn chuyển đến chức năng/màn hình không phân quyền  | High  |
+| Chức năng nào không có quyền thì không hiển thị ra màn hình  | High  |
+| Item trong dropdown không bị đè lên nhau  | High  |
+| Ảnh trên trang không bị vỡ, nhòe  |  High |
+| Giao diện trang không xô lệch khi mở trên các thiết bị khác nhau  | High  |
+| Giao diện trang không xô lệch, vỡ khi mở bằng chế độ maxium/minium của trình duyệt  | High  |
+| Có thông báo khi không có kết quả tìm kiếm thỏa mãn  | High  |
+| Có thể làm mới bộ lọc (clear tất cả dữ liệu đang được lọc search)  |  High |
+| Label cần sắp xếp ở các vị trí dễ quan sát  | High  |
+| Không có liên kết nào bị lỗi, không truy cập được  | High  |
+| Khi load được dữ liệu do mất kết nối mạng,.. cần phải có thông báo  | High  |
+| Đồng nhất ngôn ngữ trên trang  |  High |
+| Mặc định focus con trỏ ở input đầu tiên trong form  | High  |
+| Tab index theo thứ tự từ trái sang phải, từ trên xuống dưới  | High  |
 
-	
 	
