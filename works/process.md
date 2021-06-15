@@ -1,4 +1,4 @@
 ## Quy trình phát triển
-![Quy trinh phat trien (1)](https://user-images.githubusercontent.com/19303210/122025897-f40a6100-cdf3-11eb-8d69-9b6c2e146e19.png)
+![Quy trinh phat trien](https://user-images.githubusercontent.com/19303210/122026089-2451ff80-cdf4-11eb-9c32-d9e6eb85827f.png)
 
 
