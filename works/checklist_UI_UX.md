@@ -1,4 +1,4 @@
-|**YÊU CẦU BẮT BUỘC VỀ UI/UX**||
+|  **YÊU CẦU BẮT BUỘC VỀ UI/UX**  |  |
 | :---             |    ----:   |
 | Mã hóa ký tự khi nhập mã pin, mật khẩu  |  High | 
 | Có màu sắc đề phân biệt rõ giữa thông báo lỗi với cảnh báo | High  |
