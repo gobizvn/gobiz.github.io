@@ -20,6 +20,7 @@
   * Tester
      * [Quy định về kiểm thử](works/tester/testing.md)
      * [Quy trình về kiểm thử trước khi release](works/tester/testing_for_release.md)
+  * [Career Ladder](works/career/README.md)  
   * [Board quản lý request cho leader](works/leader_request.md)
 * [Tài liệu](documents.md)
 * Bookmark
