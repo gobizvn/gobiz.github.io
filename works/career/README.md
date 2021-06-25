@@ -17,7 +17,7 @@ Career Ladder được sử dụng để:
 * Định hướng phát triển
 * Thể hiện mức đãi ngộ, chế độ thưởng cuối năm một cách tương đối giữa các level
 
-Career Ladder này sẽ không thể
+Career Ladder này sẽ không:
 
 * Thể hiện hoàn toàn cho mức lương của cá nhân. Mức lương của mỗi cá nhân sẽ được quyết định bởi 3 yếu tố chính:
     * Vị trí (trên Career Ladder này)
