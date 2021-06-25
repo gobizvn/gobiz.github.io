@@ -151,9 +151,10 @@ up level cho cá nhân (những vị trí quản lý sẽ có yêu cầu về tr
 
 #### Khi nào thì tôi leo được lên bậc thang tiếp theo tại Gobiz?
 
-Tùy theo khả năng và kế hoạch của chính cá nhân đó. Việc review vị trí đối với cá nhân có thể thực hiện tại thời điểm bất kỳ thích hợp 
-sẽ chỉ được ghi nhận thực tế và áp dụng vào mức lương, thưởng cùng với các kỳ review định kỳ của công ty 
-(review giữa năm và review cuối năm) - tất nhiên trừ những tình huống đặc biệt.
+Tùy theo khả năng và kế hoạch của chính cá nhân đó. Việc review vị trí đối với cá nhân có thể thực hiện tại thời điểm bất kỳ
+thích hợp để nhìn nhận và đánh giá bước tiếp theo cần làm là gì
+tuy nhiên level nếu có thay đổi sẽ chỉ được ghi nhận thực tế và áp dụng vào mức lương, thưởng cùng với các kỳ review định kỳ của công ty
+(review giữa năm và review cuối năm) - tất nhiên trừ những tình huống đặc biệt có đóng góp rất lớn với tổ chức.
 
 #### Tôi mới trở thành nhân viên chính thức của công ty vào tháng 12. Liệu tôi có được hưởng chính sách của Senior hoặc Senior luôn trong tháng 1?
 
