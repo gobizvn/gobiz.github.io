@@ -23,7 +23,7 @@ Career Ladder này sẽ không thể
     * Vị trí (trên Career Ladder này)
     * Tiềm năng, thái độ làm việc
     * Năng suất, hiệu quả công việc thực tế
-* Thể hiện vị trí của cá nhân khi so sánh tương đối tại tổ chức khác ngoài Gobiz. Bạn có thể là Senior ở chỗ khác, nhưng
+* Thể hiện vị trí của cá nhân khi so sánh tương đối tại tổ chức khác ngoài Gobiz. Bạn có thể là Senior ở chỗ khác,nhưng
   tại Gobiz theo thang này hoàn toàn có thể là Junior và ngược lại.
 * Thể hiện mức thưởng cuối năm chính xác
 
