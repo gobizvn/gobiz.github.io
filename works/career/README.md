@@ -32,17 +32,17 @@ Career Ladder này sẽ không:
 Career Ladder này có tổng cộng 9 level, dành cho cả cấp nhân viên, chuyên gia và quản lý, phân chia theo vai trò như
 sau:
 
-| Level | Developer | Tester | Data Analysts | Business Analysts/Product Manager | Techlead | Testlead | SM/Agile leader | Others |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Fresher/Junior | Fresher/Junior | Fresher/Junior | Fresher/Junior | | | | Employee |
-| 2 | Junior 2 | Junior 2 | Junior 2 | Junior 2 | | | | Executive |
-| 3 | Junior 3 | Junior 3 | Junior 3 | Junior 3 | | | | Executive 2 |
-| 4 | Semi Senior | Semi Senior | Semi Senior | Semi Senior | | | SM | Teamlead |
-| 5 | Senior | Senior | Senior | Senior | Techlead | Testlead | SM 2 | Teamlead 2 |
-| 6 | Senior 2 | Senior 2 | Senior 2 | Senior 2 | Techlead 2 | Testlead 2 | SM 3 | Manager |
-| 7 | Senior 3 | Senior 3 | Senior 3 | Senior 3 | Techlead 3 | Testlead 3 | Agile Coach | Manager 2 |
-| 8 | Expert | Expert | Expert | Product Manager | Tech Manager | QA Manager | Op Manager | Line Director |
-| 9 | Senior Expert | Senior Expert | Senior Expert | Director | Tech Director | QA Director | Op Director | Director |
+| Level | Developer/Tester/DA | BA/Product Manager | Techlead | Testlead | SM/Agile leader | Others (phi kỹ thuật) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Fresher/Junior | Fresher/Junior | | | | Nhân viên |
+| 2 | Junior 2 | Junior 2 | | | | Chuyên viên |
+| 3 | Junior 3 | Junior 3 | | | | Điều hành/điều phối |
+| 4 | Semi Senior | Semi Senior | | | SM | Trưởng nhóm |
+| 5 | Senior | Senior | Techlead | Testlead | SM 2 | Trưởng nhóm 2 |
+| 6 | Senior 2 | Senior 2 | Techlead 2 | Testlead 2 | SM 3 | Trưởng phòng |
+| 7 | Senior 3 | Senior 3 | Techlead 3 | Testlead 3 | Agile Coach | Trưởng phòng 2 |
+| 8 | Expert | Product Manager | Tech Manager | QA Manager | Op Manager | Giám đốc khối |
+| 9 | Senior Expert | Director | Tech Director | QA Director | Op Director | Tổng Giám đốc |
 
 ## Các mức kỳ vọng
 
