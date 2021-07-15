@@ -21,7 +21,7 @@
      * [Quy định về kiểm thử](works/tester/testing.md)
      * [Quy trình về kiểm thử trước khi release](works/tester/testing_for_release.md)
   * [Career Ladder](works/career/README.md)  
-  * [Board quản lý request cho leader](works/leader_request.md)
+  * [Quản lý request cho leader](works/leader_request.md)
 * [Tài liệu](documents.md)
 * Bookmark
     * [Thống kê cá nhân](https://datastudio.google.com/u/0/reporting/d866f4ba-7ef2-4ee9-b589-c62031d6fd0b/page/o5BqB)
