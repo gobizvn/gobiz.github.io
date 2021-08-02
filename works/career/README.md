@@ -40,9 +40,9 @@ sau:
 | 4 | Semi Senior | Semi Senior | | | SM | Trưởng nhóm |
 | 5 | Senior | Senior | Techlead | Testlead | SM 2 | Trưởng nhóm 2 |
 | 6 | Senior 2 | Senior 2 | Techlead 2 | Testlead 2 | SM 3 | Trưởng phòng |
-| 7 | Senior 3 | Senior 3 | Techlead 3 | Testlead 3 | Agile Coach | Trưởng phòng 2 |
-| 8 | Expert | Product Manager | Tech Manager | QA Manager | Op Manager | Giám đốc khối |
-| 9 | Senior Expert | Director | Tech Director | QA Director | Op Director | Tổng Giám đốc |
+| 7 | Senior 3 | Senior 3 | Techlead 3 | Testlead 3 | Project Manager | Trưởng phòng 2 |
+| 8 | Expert | Product Manager | Tech Manager | QA Manager | Project Manager 2 | Giám đốc khối |
+| 9 | Senior Expert | Director | Tech Director | QA Director | Director | Tổng Giám đốc |
 
 ## Các mức kỳ vọng
 
