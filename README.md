@@ -5,6 +5,11 @@
 Nhằm có thời gian để review lại kết quả công việc từng tháng để có thể có những phương án nâng cao hiệu suất làm việc.
 Đồng thời có lý do để tặng cho những team có nhiều nỗ lực và đạt kết quả tốt những phần quà nho nhỏ, là nơi vinh danh các MVP (Most Valued Players - không phải Minimum Viable Product)
 
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/19303210/122153132-89f1ca80-ce8c-11eb-9529-472483b4887d.png" width="400" height="400" alt="css-in-readme">
+</div>
+
 ### Thành phần team
 
 Sẽ bao gồm tất cả dev, tester, techlead, BA, SM,... tham gia vào công việc của team đó.
