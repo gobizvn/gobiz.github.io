@@ -20,8 +20,7 @@
 | Chức năng nào không có quyền thì không hiển thị ra màn hình | High |
 | Sau khi login thành công luôn chuyển đến chức năng/màn hình mặc định của hệ thống, hoặc chức năng user đó có quyền | High |
 | Chuyển về trang trước đó khi nhấn nút back của trình duyệt/hệ thống  | Normal  |
-| Tiêu đề trang theo format: Chi tiết - Tổng quát. 
-Ví dụ: Tiêu đề trang chi tiết đơn: Đơn CONONG001 - M2 | Normal |
+| Tiêu đề trang theo format: Chi tiết - Tổng quát. Ví dụ: Tiêu đề trang chi tiết đơn: Đơn CONONG001 - M2 | Normal |
 | Có thông báo khi trang chưa có dữ liệu (danh sách chưa có bản ghi). Thông báo này phải phân biệt với chưa load dữ liệu (phần lớn các team đang mắc phải lỗi này)  |  Normal |
 | Item trong dropdown không bị đè lên nhau  | Normal  |
 | Có thông báo khi không có kết quả tìm kiếm thỏa mãn  | Normal  |
