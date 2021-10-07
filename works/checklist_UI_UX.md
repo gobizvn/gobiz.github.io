@@ -39,7 +39,7 @@
 | Disable button Submit/Chặn enter  khi tất cả các trường trống hoặc trường bắt đang trống  |  High |
 | Có thể làm mới bộ lọc (clear tất cả dữ liệu đang được lọc search)  |  Normal |
 
-### Chi tiết tham khảo tại:
+**Chi tiết tham khảo tại:**
 <code>https://docs.google.com/spreadsheets/d/1H8mWjw7Lz5KvvpzqStO1DoZXdJJUFaCSNoUcTntqtc4/edit?usp=sharing</code>
 
 
